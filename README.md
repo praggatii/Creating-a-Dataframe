@@ -14,17 +14,16 @@ To run the script, install the following dependencies:
 ```bash
 pip install -r requirements.txt
 
-
-## Creating-a-Dataframe
+## Repository Structure:
+Training-Script/
 ├── README.md       # Project documentation
-
-├── LICENSE         # License file
-
+├── LICENSE         # (Optional) License file
 ├── requirements.txt # List of dependencies
-
 ├── src/            # Source code folder
+│   └── Training.py # Training script
+├── data/           # (Optional) For datasets
+└── notebooks/      # (Optional) Jupyter notebooks
 
-│   └── Training.py # Your uploaded script
 
 ├── data/           #  For datasets if applicable
 
