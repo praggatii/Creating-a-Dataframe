@@ -1,6 +1,10 @@
-# Creating a Dataframe
+# Training Script
 
-This repository contains a Python script for training machine learning models.
+Task1: This repository contains a Python script where we have created DataFrame using PySpark.
+Task2: 
+Task3:
+Task4:
+Task5:
 
 ## Features
 
@@ -8,6 +12,11 @@ This repository contains a Python script for training machine learning models.
 - [Feature 2]: Describe another feature.
 
 ## Requirements
+
+
+
+
+
 
 To run the script, install the following dependencies:
 
