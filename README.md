@@ -24,6 +24,7 @@ To run the script, install the following dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Repository Structure:
 Training-Script/
