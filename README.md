@@ -1,7 +1,7 @@
 # Training Script
 
 Task1: This repository contains a Python script where we have created DataFrame using PySpark.
-Task2: 
+Task2: Uploading the file,reading the file. Then performing operations like insert, update, delete.
 Task3:
 Task4:
 Task5:
