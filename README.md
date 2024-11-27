@@ -4,7 +4,8 @@ Task1: This repository contains a Python script where we have created DataFrame 
 
 Task2: Uploading the file,reading the file. Then performing operations like insert, update, delete.
 
-Task3:
+Task3: Created, loaded data in RDD and then performed insert, update and delete operations.
+
 Task4:
 Task5:
 
